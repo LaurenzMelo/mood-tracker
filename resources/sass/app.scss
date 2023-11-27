@@ -1,0 +1,38 @@
+// Fonts
+@import url('https://fonts.bunny.net/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+
+.icon-dimension {
+    height: 30% !important;
+    width: 30% !important;
+}
+
+.b1-black {
+    border: 1px solid black;
+}
+
+.b1-red {
+    border: 1px solid red;
+}
+
+.bg-white {
+    background-color: #ffffff;
+}
+
+.main-card {
+    background-color: #ffffff;
+    border: 1px solid #eeeeee !important;
+}
+
+.my-card {
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 15px;
+    border: 1px solid #DDDDDD;
+    border-bottom: 3px solid #FF5555
+}
