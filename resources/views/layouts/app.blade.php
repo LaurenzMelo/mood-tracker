@@ -31,13 +31,13 @@
                     <!-- Left Side Of Navbar -->
                     <ul class="navbar-nav me-auto">
                         <li class="nav-item"> 
-                            <a class="nav-link"> Dashboard </a>
+                            <a class="nav-link" href="{{ route('dashboard') }}"> Dashboard </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link">Customization </a>
+                            <a class="nav-link" href="{{ route('customization') }}">Customization </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link"> Calendar </a>
+                            <a class="nav-link" href="{{ route('calendar') }}"> Calendar </a>
                         </li>
                     </ul>
 

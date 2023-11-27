@@ -10,6 +10,11 @@
                                 <h5 class="m-0"> Today is {{ date_today }} </h5>
                                 <h5 class="mt-4"> Here are some of your reminders: </h5>
                             </div>
+                            <div class="col-md-1">
+                                123
+                            </div>
+                        </div>
+                        <div class="row">
                             <div class="col-md-6">
                                 <div class="my-card">
                                     <h5> Reminder #1 </h5>
@@ -22,13 +27,15 @@
                                     <div> 123 </div>
                                 </div>
                             </div>
-                            <div class="col-md-6 mt-4">
+                        </div>
+                        <div class="row mt-4">
+                            <div class="col-md-6">
                                 <div class="my-card">
                                     <h5> Reminder #3 </h5>
                                     <div> 123 </div>
                                 </div>
                             </div>
-                            <div class="col-md-6 mt-4">
+                            <div class="col-md-6">
                                 <div class="my-card">
                                     <h5> Reminder #4 </h5>
                                     <div> 123 </div>
